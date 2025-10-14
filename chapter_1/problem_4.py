@@ -9,6 +9,3 @@
 # for item in contents:
 
 #     print(contents)
-
-#print("my name is Tarique ,i am worst nightmare for nonsense person")
-
